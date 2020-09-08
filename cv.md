@@ -40,4 +40,4 @@ Created a custom theme from scratch using HTML, CSS, JavaScript, PHP, and ACF, f
 
 ### English
 
-    (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+    live in israel
