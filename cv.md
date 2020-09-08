@@ -40,4 +40,4 @@ Created a custom theme from scratch using HTML, CSS, JavaScript, PHP, and ACF, f
 
 ### English
 
-    live in israel
+    Live in Israel
