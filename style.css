@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+a {
+  color: #00ff00;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+a:hover {
+  color: #00342f;
+}
+
+.wrapper {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.avatar {
+  width: 100%;
+  max-width: 250px;
+}
+
+.wrapper > section:not(:last-child),
+.header {
+  margin-bottom: 20px;
+}
